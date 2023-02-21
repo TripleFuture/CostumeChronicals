@@ -1,4 +1,4 @@
-let images = ["src/assets/image1.jpg", "src/assets/image2.jpg", "src/assets/image3.jpg"];
+let images = ["src/merch/image1.jpg", "src/merch/image2.jpg", "src/merch/image3.jpg"];
 let currentImageIndex = 0;
 
 function prevImage() {
